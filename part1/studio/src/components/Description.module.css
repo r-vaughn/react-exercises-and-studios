@@ -1,0 +1,13 @@
+.recipeAuthorBlock {
+    display: flex;
+    justify-content: space-evenly;
+}
+    
+.imageUpdates {
+   object-fit: contain;
+}
+
+.instagram {
+    height: 200%; 
+    width: 200%;
+}
