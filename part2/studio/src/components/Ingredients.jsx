@@ -2,7 +2,7 @@ import recipedata from "./recipe.json";
 
 function IngredientList() {
   
-  const ingredient = recipedata.map((item) => (
+  const Ingredient = recipedata.map((item) => (
     <li key={item.ingredients}>
       {item.ingredients}
     </li>
