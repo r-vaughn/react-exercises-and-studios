@@ -1,3 +1,4 @@
+import React from "react";
 import "./App.css";
 import RateARecipe from "./components/RateARecipe";
 import Button from "./components/Button";
@@ -12,9 +13,11 @@ export default function App() {
       <RecipeImage />
       <RecipeName />
       <RateARecipe rating={4} />
-      <Button saveButton={true} />
+      <Button saveButton={false} />
       <AuthorInfo />
       <IngredientList />
     </>
   );
 }
+
+
