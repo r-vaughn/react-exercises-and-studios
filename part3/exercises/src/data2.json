@@ -1,0 +1,32 @@
+{"projects" :  [
+    {
+        "title": "Harry Potter and the Goblet of Fire", 
+        "author": "J. K. Rowling", 
+        "imageURL": "https://strangerthansf.com/images/rowling-harrypotterandthegobletoffire.jpg",
+        "alt": "Harry Potter and the Goblet of Fire by J. K. Rowling"
+    },
+    {
+        "title": "Fall", 
+        "author": "Tracy Clark", 
+        "imageURL": "https://th.bing.com/th/id/OIP.Njjw9r4wL3t3Q9rgVRTsKAAAAA?rs=1&pid=ImgDetMain", 
+        "alt": "Fall by Tracy Clark"
+    },
+    {
+        "title": "No One Can Know", 
+        "author": "Kate Alice Marshall", 
+        "imageURL": "https://booksbonesbuffy.com/wp-content/uploads/2023/05/No-One-Can-Know.jpg", 
+        "alt": "No One Can Know by Kate Alice Marshall"
+    }, 
+    {
+        "title":"Shadow and Bone",
+        "author": "Leigh Bardugo", 
+        "imageURL": "https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9781250027436.jpg", 
+        "alt": "Shadow and Bone by Leigh Bardugo"
+    }, 
+    {
+        "title": "At the River", 
+        "author": "Kendra Elliot", 
+        "imageURL": "https://th.bing.com/th/id/OIP.j2PnZoutlzOildWU0fbBUQHaLH?rs=1&pid=ImgDetMain", 
+        "alt": "At the River by Kendra Elliot"
+    }
+]}
